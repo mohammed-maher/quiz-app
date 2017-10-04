@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleQuiz</string>
+    <string name="first_question">1. Who is the 39th president of US?</string>
+    <string name="second_question">2. During World War II, when did Germany attack France?</string>
+    <string name="second_question_answer_a">1940</string>
+    <string name="second_question_answer_b">1941</string>
+    <string name="second_question_answer_c">1942</string>
+    <string name="second_question_answer_d">1943</string>
+    <string name="third_question">3. Which of these paintings are NOT for Van Gogh?</string>
+    <string name="third_question_answer_a">Irises</string>
+    <string name="third_question_answer_b">The Blue Room</string>
+    <string name="third_question_answer_c">Mona Lisa</string>
+    <string name="third_question_answer_d">Tree Roots</string>
+    <string name="fourth_question">What is the capital of Canada?</string>
+    <string name="check_answers">Check Answers</string>
+
+</resources>
